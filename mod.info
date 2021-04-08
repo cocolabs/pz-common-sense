@@ -1,0 +1,7 @@
+name=Common Sense
+poster=poster.png
+description=Common sense additions to Project Zomboid.
+id=pz-common-sense
+url=https://github.com/cocolabs/pz-common-sense
+modversion=0.1.0
+pzversion=41.50-IWBUMS
